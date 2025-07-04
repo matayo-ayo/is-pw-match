@@ -14,7 +14,9 @@
     "comparison",
     "react",
     "express",
-    "security"
+    "security",
+    "is password match",
+    "is pw match"
   ],
   "author": "Matayo Ayo",
   "license": "ISC",
