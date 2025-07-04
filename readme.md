@@ -107,7 +107,7 @@ console.log('Not similar');
 const percent = matchPercent(pw1, pw2, { minLength: 8 });
 ```
 
-## ase Sensitive Comparison:
+## Case Sensitive Comparison:
 
 ```bash
 const percent = matchPercent(str1, str2, { caseSensitive: true });
