@@ -1,0 +1,28 @@
+{
+  "name": "is-pw-match",
+  "version": "1.0.0",
+  "description": "Calculate password match by percentage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matayo-ayo/is-pw-match.git"
+  },
+  "keywords": [
+    "password",
+    "match",
+    "percentage",
+    "comparison",
+    "react",
+    "express",
+    "security"
+  ],
+  "author": "Matayo Ayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matayo-ayo/is-pw-match/issues"
+  },
+  "homepage": "https://github.com/matayo-ayo/is-pw-match#readme"
+}
